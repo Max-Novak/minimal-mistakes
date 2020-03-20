@@ -39,4 +39,4 @@ Jekyll Docs
 - https://jekyllrb.com/docs
 
 MMistakes Docs
-- https://mmistakes.github.io/minimal-mistakes/docs/
+- https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
